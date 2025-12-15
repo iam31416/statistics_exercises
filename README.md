@@ -1,19 +1,20 @@
 ﻿# 📊 Statistics Exercises – R
 
-This repository contains exercise sheets and **R skeleton scripts** for the Statistics course.
+This repository contains exercise sheets (PDF) and R templates for all units of the Statistics course.
 
-## Units
+## 📚 Course Contents
+
 1. Descriptive Statistics
 2. Statistical Models
 3. Time Series
 4. Probability
 5. Random Variables
-6. Distributions
-7. Statistical Inference
+6. Statistical Inference
 
-## Structure
-Each unit contains:
-- statements/ – PDF exercise sheets
+## 📁 Structure
+
+Each unit includes:
+- statements/ – exercise sheets (PDF)
 - R/ – R skeleton scripts to be completed by students
 
-⚠️ Solutions are **not** included in this repository.
+⚠️ Solutions are not provided in this repository.
